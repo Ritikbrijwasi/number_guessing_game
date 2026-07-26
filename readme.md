@@ -36,8 +36,13 @@ The Number Guessing Game is a beginner-friendly C++ application that generates a
 
 ```
 number_guessing_game/
-│── main.cpp
+│── guessinggame.cpp
 │── README.md
+│── index.html
+│── script.js
+│── style.js
+
+
 ```
 
 ---
